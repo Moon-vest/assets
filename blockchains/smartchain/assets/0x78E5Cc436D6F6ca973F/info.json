@@ -1,0 +1,17 @@
+{
+  "name": "MoonVest",
+  "symbol": "MNV",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "MoonVest (MNV) is a deflationary token backed by a digital investment fund that redistributes profits to holders. Designed for long-term investors.",
+  "website": "https://m0onvest.netlify.app",
+  "explorer": "https://bscscan.com/token/0x78E5Cc436D6F6ca973F3a428a0c418F91f52D971",
+  "status": "active",
+  "id": "0x78E5Cc436D6F6ca973F3a428a0c418F91f52D971",
+  "links": {
+    "telegram": "https://t.me/moonvestportal",
+    "twitter": "https://twitter.com/moonvestportal",
+    "github": "https://github.com/moonvestproject",
+    "whitepaper": "https://drive.google.com/file/d/1ajWJ7FEsVQGYbIIMEe7Orm5vGhT6oxBJ/view"
+  }
+}
